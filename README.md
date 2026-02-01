@@ -1,4 +1,4 @@
-#📊 NovaRetail+: Análisis de Comportamiento y Factores de Ingreso
+# 📊 NovaRetail+: Análisis de Comportamiento y Factores de Ingreso
 
 🛍️ Explorando los impulsores de rentabilidad en el E-commerce Este repositorio contiene el análisis estadístico y exploratorio realizado para NovaRetail+, una plataforma de comercio electrónico líder en Latinoamérica, utilizando datos de comportamiento de usuario registrados hasta el cierre de 2024.
 
